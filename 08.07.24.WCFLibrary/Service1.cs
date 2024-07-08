@@ -1,5 +1,4 @@
 ﻿using System;
-using System.ServiceModel;
 
 namespace _08._07._24.WCFLibrary
 {
